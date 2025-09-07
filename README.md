@@ -23,5 +23,5 @@ Hi! I'm Hai Phong, an 18-year-old 1A Computer Engineering student at the Univers
 </p>
 <hr>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=awoodenshoe&show_icons=true&theme=github_dark" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awoodenshoe&layout=compact&theme=github_dark" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=hai-phong-duong&show_icons=true&theme=github_dark" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hai-phong-duong&layout=compact&theme=github_dark" />
