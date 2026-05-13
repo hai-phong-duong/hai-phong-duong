@@ -22,6 +22,3 @@ Hi! I'm Hai Phong, and I am a 1B computer Engineering student at the University 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </p>
 <hr>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=hai-phong-duong&show_icons=true&theme=github_dark" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hai-phong-duong&layout=compact&theme=github_dark" />
