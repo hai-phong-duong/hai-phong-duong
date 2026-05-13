@@ -1,6 +1,6 @@
 # AWoodenshoe
 
-Hi! I'm Hai Phong, an 18-year-old 1A Computer Engineering student at the University of Waterloo! I love solving problems with code and building cool things.
+Hi! I'm Hai Phong, and I am a 1B computer Engineering student at the University of Waterloo! I love solving problems with code and building cool things.
 
 ### Tech Stack & Tools
 
